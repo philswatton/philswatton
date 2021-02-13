@@ -2,12 +2,13 @@
 
 I'm Phil, a PhD student at the University of Essex.
 
-My research is in the broad realm of public opinion, with particular focus on application of research methods. I keep my work on GitHub, but at the moment these repositories are private. I will be making them public once sufficient progress is made.
+My research is in the broad realm of public opinion, elections, and quantitative research methods for analysing these things. At present I use R for my own work, but can use Stata and hope to eventually incorporate Python into my toolkit.
 
-I also use GitHub to store code from some of the other languages I'm currently learning. You can find my personal website hosted on GitHub pages along with various other random bits of code here.
+At the moment, I keep my research repositories private. I plan to release code when the relevant papers are published (eventually).
 
-I also have some code stored on CodePen: https://codepen.io/phil-swatton
+Beyond this, I've been learning general programming. I've been slowly chipping away at learning front-end web development (mainly for the purpose of maintaining my own website) via freeCodeCamp and recently started eloquentJS to this end. I've also been slowly working on CS50 to get a better understanding of computer sciencce as in the long term I'm interested in doing some software development as a hobby/side gig.
 
+At the time of writing, most of the public repositories here are either small side projects or random collections of code from small learning projects I've been pursuing. I also have some front-end code stored on CodePen: https://codepen.io/phil-swatton
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton)
