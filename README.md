@@ -2,7 +2,7 @@
 
 I'm Phil, a PhD student at the University of Essex.
 
-My research is in the broad realm of public opinion, elections, and quantitative research methods for analysing these things. At present I use R for my own work (and love it!), but can use Stata and hope to eventually incorporate Python into my research toolkit. You can learn more about me and my research on my website, which is hosted [here](https://philswatton.github.io/) on GitHub pages.
+My research is in the broad realm of public opinion, elections, and quantitative research methods for analysing these things. At present I use R for my own work (and love it!), but can use Stata and hope to eventually incorporate Python into my research toolkit. You can learn more about me and my research on [my website](https://philswatton.github.io/), which is hosted [here](https://github.com/philswatton/philswatton.github.io) on GitHub pages.
 
 The main thing I currently use GitHub for is for storing the code relating to my research. At the moment these repositories are private, but when I manage to get a publication I aim to create public repositories containing the replication code.
 
