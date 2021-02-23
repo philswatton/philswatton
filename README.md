@@ -2,13 +2,20 @@
 
 I'm Phil, a PhD student at the University of Essex.
 
-My research is in the broad realm of public opinion, elections, and quantitative research methods for analysing these things. At present I use R for my own work, but can use Stata and hope to eventually incorporate Python into my toolkit.
+My research is in the broad realm of public opinion, elections, and quantitative research methods for analysing these things. At present I use R for my own work, but can use Stata and hope to eventually incorporate Python into my research toolkit. You can learn more about me and my research on my website, which is hosted [here](https://philswatton.github.io/) on GitHub pages.
 
-At the moment, I keep my research repositories private. I plan to release code when the relevant papers are published (eventually).
+The main thing I currently use GitHub for is for storing the code relating to my research. At the moment these repositories are private, but when I manage to get a publication I aim to create public repositories containing the replication code.
 
-Beyond this, I've been learning general programming. I've been slowly chipping away at learning front-end web development (mainly for the purpose of maintaining my own website) via freeCodeCamp and recently started eloquentJS to this end. I've also been slowly working on CS50 to get a better understanding of computer sciencce as in the long term I'm interested in doing some software development as a hobby/side gig.
+### What I'm learning 👨‍🎓
 
-At the time of writing, most of the public repositories here are either small side projects or random collections of code from small learning projects I've been pursuing. I also have some front-end code stored on CodePen: https://codepen.io/phil-swatton
+Beyond this, I have an interest in general programming and have been persuing various courses and reading materials to this effect. You'll therefore find some public repositories containing solutions to these.
+
+- 📚 I'm currently reading: Structure and Interpretation of Computer Programs
+- 👨‍💻 My current course: CS50
+
+### Other Stuff
+
+I also have one or two other mini-projects on my GitHub and presumably will have more of these (and hopefully one day some larger projects!) over time. I also keep some frontend code I've been trying out on my codepen which can be found [here](https://codepen.io/phil-swatton).
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton)
