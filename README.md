@@ -18,7 +18,9 @@ Beyond this, I have an interest in general programming and have been persuing va
 I also have one or two other mini-projects on my GitHub and presumably will have more of these (and hopefully one day some larger projects!) over time. I also keep some frontend code I've been trying out on my codepen which can be found [here](https://codepen.io/phil-swatton).
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philswatton&count_private=true&show_icons=true)](https://github.com/philswatton/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton&layout=compact&langs_count=10)
+
 <!--
 **philswatton/philswatton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
