@@ -11,9 +11,9 @@ The main thing I currently use GitHub for is for storing the code relating to my
 Beyond this, I have an interest in general programming and have been persuing various courses and reading materials to this effect. To force myself to maintain a structure (else I just start too many courses in one go, I'm trying to stick to one course and one reading at a time.
 
 - 📚 My current reading: Structure and Interpretation of Computer Programs
-- 👨‍💻 My current course: CS50
+- 👨‍💻 My current course: CS50x
 
-### Other Stuff
+### Other Stuff 🤷‍♂️
 
 I also have one or two other mini-projects on my GitHub and presumably will have more of these (and hopefully one day some larger projects!) over time. I also keep some frontend code I've been trying out on my codepen which can be found [here](https://codepen.io/phil-swatton).
 
