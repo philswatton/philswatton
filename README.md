@@ -8,7 +8,7 @@ The main thing I currently use GitHub for is for storing the code relating to my
 
 ### What I'm learning 👨‍🎓
 
-Beyond this, I have an interest in general programming and have been persuing various courses and reading materials to this effect. To force myself to maintain a structure (else I just start too many courses in one go, I'm trying to stick to one course and one reading at a time.
+Beyond this, I would like to learn more about general programming and have been persuing various courses and reading materials to this effect. To force myself to maintain a structure (else I just start too many courses in one go, I'm trying to stick to one course and one reading at a time.
 
 - 📚 My current reading: Structure and Interpretation of Computer Programs
 - 👨‍💻 My current course: CS50x
