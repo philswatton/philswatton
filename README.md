@@ -2,9 +2,9 @@
 
 I'm Phil, a PhD student at the University of Essex.
 
-My research is in the broad realm of public opinion, elections, and quantitative research methods for analysing these things. At present I use R for my own work (and love it!), but can use Stata and hope to eventually incorporate Python into my research toolkit. You can learn more about me and my research on [my website](https://philswatton.github.io/), which is hosted [here](https://github.com/philswatton/philswatton.github.io) via GitHub pages.
+My research is in the broad realm of public opinion, elections, and quantitative research methods for analysing these things. At present I use R for my own work, but can use Stata and hope to eventually incorporate Python into my research toolkit. You can learn more about me and my research on [my website](https://philswatton.github.io/), which is hosted [here](https://github.com/philswatton/philswatton.github.io) via GitHub pages.
 
-The main thing I currently use GitHub for is for storing the code relating to my research. At the moment these repositories are private, but when I manage to get a publication I aim to create public repositories containing the replication code.
+The main thing I currently use GitHub for is for storing the code relating to my research. At the moment these repositories are private, but if/when I manage to publish something I aim to create public repositories containing the replication code.
 
 ### What I'm learning 👨‍🎓
 
@@ -15,7 +15,7 @@ Beyond this, I would like to learn more about general programming and have been 
 
 ### Other Stuff 🤷‍♂️
 
-I also have one or two other mini-projects on my GitHub and presumably will have more of these (and hopefully one day some larger projects!) over time. I also keep some frontend code I've been trying out on my codepen which can be found [here](https://codepen.io/phil-swatton).
+I also have one or two other mini-projects on my GitHub and hopefully will have more of these (and hopefully one day some larger projects!) over time. I also keep some frontend code I've been trying out on my codepen which can be found [here](https://codepen.io/phil-swatton).
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philswatton&count_private=true&show_icons=true)](https://github.com/philswatton/github-readme-stats)
