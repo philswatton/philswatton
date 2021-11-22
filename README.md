@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Phil, a PhD student at the University of Essex.
+I'm Philip, a PhD student at the University of Essex.
 
-My research is in the broad realms of measurement, quantitative research methods, statistical programming, public opinion, and elections. At present I use R for my own work, but can use Stata and at a push can use Python. You can learn more about me and my research on my website which you can find [here](https://philswatton.github.io/)
+My research is in the broad realms of measurement, quantitative research methods, statistical programming, public opinion, and elections. At present I use R for my own work, but can use Stata and at a push can use Python. You can learn more about me and my research on my website which you can find [here](https://philipjswatton.github.io/)
 
 On my github page you'll find repositories for my website, side-projects I'm working on, and for online courses I'm taking.
 
@@ -15,5 +15,5 @@ Beyond my research, I have an interest in general programming and have been purs
 
 ### Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philswatton&count_private=true&show_icons=true)](https://github.com/philswatton/github-readme-stats)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton&layout=compact&langs_count=10)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipjswatton&count_private=true&show_icons=true)](https://github.com/philipjswatton/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philipjswatton&layout=compact&langs_count=10)
