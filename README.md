@@ -15,5 +15,5 @@ Beyond my research, I have an interest in general programming and have been purs
 
 ### Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipjswatton&count_private=true&show_icons=true)](https://github.com/philipjswatton/github-readme-stats)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philipjswatton&layout=compact&langs_count=10)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philswatton&count_private=true&show_icons=true)](https://github.com/philipjswatton/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton&layout=compact&langs_count=10)
