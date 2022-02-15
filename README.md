@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Philip, a PhD student at the University of Essex.
+I'm Phil, a PhD student at the University of Essex.
 
 My research is in the broad realms of measurement, quantitative research methods, statistical programming, public opinion, and elections. At present I use R for my own work, but can use Stata and at a push can use Python. You can learn more about me and my research on my website which you can find [here](https://philipjswatton.github.io/).
 
