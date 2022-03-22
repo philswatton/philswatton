@@ -2,16 +2,16 @@
 
 I'm Phil, a PhD student at the University of Essex.
 
-My research is in the broad realms of measurement, quantitative research methods, statistical programming, public opinion, and elections. At present I use R for my own work, but can use Stata and at a push can use Python. You can learn more about me and my research on my website which you can find [here](https://philswatton.github.io/).
+My research is in the broad intersection of data science, measurement, survey analysis, public opinion, and political parties. I mostly use Github to store my academic work, but also maintain a number of personal projects on my page. You can learn more about me and my research on my website which you can find [at this link](https://philswatton.github.io/).
 
-On my github page you'll find repositories for my website, side-projects I'm working on, and for online courses I'm taking.
+### What I'm learning at the moment 👨‍🎓
 
-### What I'm learning 👨‍🎓
+I'm often learning some new skill or method for the purposes of my research. I also have a broader interest in general programming and math and have been pursuing various courses and reading materials when I have time to spare. To help manage my time, I've committed to doing one course and one reading at a time in this extra-curricular learning. In practice, I end up doing these very slowly, based on how much spare time I have.
 
-Beyond my research, I have an interest in general programming and have been pursuing various courses and reading materials when I have time to spare. To force myself to main a reasonable structure (lest I start too many courses in one go), I've committed to doing one course and one reading at a time. In practice, I usually do these very slowly, based on how much spare time I have.
-
-- 👨‍💻 My current CS course: CS50x
-- 📚 My current CS reading: Structure and Interpretation of Computer Programs
+- **Course**: CS50x Introduction to Computer Science
+- **Book**: Code: The Hidden Language of Computer Hardware and Software
+- Writing statistical/machine learning algorithms
+- Creating R packages
 
 ### Stats 📊
 
