@@ -1,17 +1,27 @@
-### Hi there 👋
+# Hi, I'm Phil 👋
 
-I'm Phil, a PhD student at the University of Essex.
+I'm a PhD student who does research in the intersection of political science and data science. When I'm not working on my PhD or other research projects, I enjoy spending time with my girlfriend, reading, and self-learning general programming. You can learn more about me and my research on my website which you can find [at this link](https://philswatton.github.io/).
 
-My research is in the broad intersection of data science, measurement, survey analysis, public opinion, and political parties. I mostly use Github to store my academic work, but also maintain a number of personal projects on my page. You can learn more about me and my research on my website which you can find [at this link](https://philswatton.github.io/).
+## 🎓 Current Education
 
-### What I'm learning at the moment 👨‍🎓
+PhD Government at the University of Essex. I'm due to finish approximately September 2022.
 
-- **Course**: CS50x Introduction to Computer Science
+## 📚 Current Self-Learning
+
+- **Course**: CS50’s Introduction to Artificial Intelligence with Python
 - **Book**: Code: The Hidden Language of Computer Hardware and Software
-- Writing statistical/machine learning algorithms
-- Creating R packages
 
-### Stats 📊
+## 🔮 Future Self-Learning
+
+- Programming PC games
+- **Book**: Structure and Interpretation of Computer Programs
+
+## 👨‍💻 Current Side Projects
+
+- Writing statistical/machine learning algorithms - see [Collected R Code](https://philswatton.github.io/Collected-R-Code/index.html)
+- Creating R packages - see [psmisc](https://github.com/philswatton/psmisc)
+
+## 📊 Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philswatton&count_private=true&show_icons=true)](https://github.com/philipjswatton/github-readme-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton&layout=compact&langs_count=10)
