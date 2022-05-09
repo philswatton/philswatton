@@ -18,8 +18,8 @@ PhD Government at the University of Essex. I'm due to finish approximately Septe
 
 ## 👨‍💻 Current Side Projects
 
-- Writing statistical/machine learning algorithms - see [Collected R Code](https://philswatton.github.io/Collected-R-Code/index.html)
-- Creating R packages - see [psmisc](https://github.com/philswatton/psmisc)
+- Writing statistical/machine learning algorithms: [Collected R Code](https://philswatton.github.io/Collected-R-Code/index.html)
+- Creating R packages: [psmisc](https://github.com/philswatton/psmisc), [rngbox](https://github.com/philswatton/rngbox)
 
 ## 📊 Github Stats
 
