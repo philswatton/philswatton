@@ -22,7 +22,9 @@ PhD Government at the University of Essex. I'm due to finish approximately Septe
 - Creating R packages: [psmisc](https://github.com/philswatton/psmisc), [rngbox](https://github.com/philswatton/rngbox)
 - Bulding JavaScript and R implementations of this [Unsure Calculator](https://filiph.github.io/unsure/): [JavaScript](https://github.com/philswatton/unsure-calculator), [R package](https://github.com/philswatton/unsure)
 
+<!--
 ## 📊 Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philswatton&count_private=true&show_icons=true)](https://github.com/philipjswatton/github-readme-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton&layout=compact&langs_count=10)
+-->
