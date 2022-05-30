@@ -19,8 +19,8 @@ PhD Government at the University of Essex. I'm due to finish approximately Septe
 ## 👨‍💻 Current Side Projects
 
 - Writing statistical/machine learning algorithms: [Collected R Code](https://philswatton.github.io/Collected-R-Code/index.html)
-- Creating R packages: [psmisc](https://github.com/philswatton/psmisc), [rngbox](https://github.com/philswatton/rngbox)
-- Bulding JavaScript and R implementations of this [Unsure Calculator](https://filiph.github.io/unsure/): [JavaScript](https://github.com/philswatton/unsure-calculator), [R package](https://github.com/philswatton/unsure)
+- Creating R packages: [psmisc](https://github.com/philswatton/psmisc)<!--, [rngbox](https://github.com/philswatton/rngbox)-->
+- Bulding a JavaScript implementation of this [Unsure Calculator](https://filiph.github.io/unsure/): [JavaScript](https://github.com/philswatton/unsure-calculator)<!--, [R package](https://github.com/philswatton/unsure)-->
 
 <!--
 ## 📊 Github Stats
