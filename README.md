@@ -1,12 +1,10 @@
 # Hi, I'm Phil 👋
 
-I'm a PhD student who does research in the intersection of political science and data science. When I'm not working on my PhD or other research projects, I enjoy spending time with my girlfriend, reading, and self-learning general programming. You can learn more about me and my research on my website which you can find [at this link](https://philswatton.github.io/).
+I'm a Data Scientist at the Alan Turing Institute. I'm also a PhD student in the Department of Government at the University of Essex, where I'm currently waiting for my viva examination.
 
-## 🎓 Current Education
+When I'm not working, doing one of my research or side projects, I enjoy spending time with my girlfriend, reading, and self-learning general programming. You can learn more about me and my research on my website which you can find [at this link](https://philswatton.github.io/).
 
-PhD Government at the University of Essex. I'm due to finish approximately September 2022.
-
-## 📚 Current Self-Learning
+<!-- ## 📚 Current Self-Learning
 
 - **Course**: CS50’s Introduction to Artificial Intelligence with Python
 - **Book**: Code: The Hidden Language of Computer Hardware and Software
@@ -14,7 +12,7 @@ PhD Government at the University of Essex. I'm due to finish approximately Septe
 ## 🔮 Future Self-Learning
 
 - Programming PC games
-- **Book**: Structure and Interpretation of Computer Programs
+- **Book**: Structure and Interpretation of Computer Programs -->
 
 ## 👨‍💻 Current Side Projects
 
