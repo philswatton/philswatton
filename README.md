@@ -21,8 +21,8 @@ In my spare time outside of work and research projects, I enjoy spending time wi
 - Building a web calculator for Votes from Seats and its extensions: [VfS Calculator](https://philswatton.github.io/VfS_Calculator/index.html) -->
 
 
-### 📊 Github Stats
+<!-- ### 📊 Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philswatton&count_private=true&show_icons=true)](https://github.com/philipjswatton/github-readme-stats)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton&layout=compact&langs_count=10)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=philswatton&layout=compact&langs_count=10) -->
 
